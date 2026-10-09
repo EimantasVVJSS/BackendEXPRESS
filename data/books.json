@@ -1,0 +1,72 @@
+{"books" :[
+  {
+    "id": 1,
+    "title": "1984",
+    "year": 1949,
+    "genre": "Dystopian",
+    "rating": 4.2
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "year": 1960,
+    "genre": "Classic",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "title": "The Hobbit",
+    "year": 1937,
+    "genre": "Fantasy",
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "year": 1997,
+    "genre": "Fantasy",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "year": 1925,
+    "genre": "Classic",
+    "rating": 3.9
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "year": 1965,
+    "genre": "Science Fiction",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings",
+    "year": 1954,
+    "genre": "Fantasy",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "year": 1951,
+    "genre": "Classic",
+    "rating": 3.8
+  },
+  {
+    "id": 9,
+    "title": "The Alchemist",
+    "year": 1988,
+    "genre": "Adventure",
+    "rating": 3.9
+  },
+  {
+    "id": 10,
+    "title": "Pride and Prejudice",
+    "year": 1813,
+    "genre": "Romance",
+    "rating": 4.3
+  }
+]}

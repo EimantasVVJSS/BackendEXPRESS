@@ -1,0 +1,72 @@
+{ "games" :[
+  {
+    "id": 1,
+    "title": "The Witcher 3: Wild Hunt",
+    "year": 2015,
+    "genre": "RPG",
+    "rating": 9.5
+  },
+  {
+    "id": 2,
+    "title": "Minecraft",
+    "year": 2011,
+    "genre": "Sandbox",
+    "rating": 9.0
+  },
+  {
+    "id": 3,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "year": 2017,
+    "genre": "Action-Adventure",
+    "rating": 9.7
+  },
+  {
+    "id": 4,
+    "title": "Red Dead Redemption 2",
+    "year": 2018,
+    "genre": "Action-Adventure",
+    "rating": 9.7
+  },
+  {
+    "id": 5,
+    "title": "Elden Ring",
+    "year": 2022,
+    "genre": "Action RPG",
+    "rating": 9.6
+  },
+  {
+    "id": 6,
+    "title": "Grand Theft Auto V",
+    "year": 2013,
+    "genre": "Action-Adventure",
+    "rating": 9.5
+  },
+  {
+    "id": 7,
+    "title": "Portal 2",
+    "year": 2011,
+    "genre": "Puzzle",
+    "rating": 9.5
+  },
+  {
+    "id": 8,
+    "title": "Stardew Valley",
+    "year": 2016,
+    "genre": "Simulation",
+    "rating": 9.0
+  },
+  {
+    "id": 9,
+    "title": "God of War",
+    "year": 2018,
+    "genre": "Action-Adventure",
+    "rating": 9.4
+  },
+  {
+    "id": 10,
+    "title": "Cyberpunk 2077",
+    "year": 2020,
+    "genre": "RPG",
+    "rating": 8.5
+  }
+]}
